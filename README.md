@@ -1,3 +1,3 @@
 # code-men-
 this is my new repository 
-Author -  is manoj 
+Author - my name  is manoj 
